@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Check a number is positive" />
             <option value="$PROJECT_DIR$/Problems/Check burgs" />
             <option value="$PROJECT_DIR$/Problems/Check prefix ignoring the case" />
             <option value="$PROJECT_DIR$/Problems/Check the given numbers are different" />
@@ -30,6 +31,7 @@
             <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Problems/Symmetrical number" />
             <option value="$PROJECT_DIR$/Problems/The sum of digits" />
             <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
             <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
