@@ -45,7 +45,7 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        // write your code here
+        /
     }
 
     static void end() {

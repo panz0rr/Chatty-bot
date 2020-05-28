@@ -3,8 +3,16 @@ import java.util.Scanner;
 public class Main {
 
     public static boolean isComposite(long number) {
-        // write your code here
+
+        for(int i =2; i<number; i++) {
+            if(number % i==0) {
+                return true;
+            }
+        }
+        return false;
     }
+
+
 
     /* Do not change code below */
     public static void main(String[] args) {
